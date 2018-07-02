@@ -1,0 +1,15 @@
+# get rid of python files
+*.pyc
+*.pyo
+__pycache__
+
+# get rid of junk files
+
+.DS_Store
+.DS_Store?
+.kate-swp
+.ipynb_checkpoints
+jthunt/
+data/
+Lab3/target/
+Lab3/run.sh
