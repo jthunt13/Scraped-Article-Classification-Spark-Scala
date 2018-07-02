@@ -19,26 +19,23 @@ class MySQLLogin:
 #------------------------------------------------------------------------------
 #                             Hadley keys/sql login
 #------------------------------------------------------------------------------
-joeTwitter = AuthKeys("zGI5Yljg3Xhb7QAANM76jQs2d",
-                        "2xay2iQQu5AOXeiPpuHuLCri1vLmjFRD7i3iIkRDC46bdLQ9IY",
-                        "960574817178177536-YG2l47flaQQB7DDLpwqLeYa2rDu8oIw",
-                        "yDefhVjCSOnTIs4U99TEF2fNu1Y20oKVipUSwQvsJVyHo")
+joeTwitter = AuthKeys()
 
-joeNYT = AuthKeys("bc22f215df24440dbef35cef947d0461",
+joeNYT = AuthKeys(,
                 None,
                 None,
                 None)
 
-joeSQL = MySQLLogin("root", "Hadleyj1")
+joeSQL = MySQLLogin("root", "")
 #------------------------------------------------------------------------------
 #                               Hunt keys
 #------------------------------------------------------------------------------
-jonNYT = AuthKeys("40c1831f84e54c43aea28695d845df76",
+jonNYT = AuthKeys(,
                 None,
                 None,
                 None)
 
-jonSQL = MySQLLogin("root","17goals")
+jonSQL = MySQLLogin("root","")
 #------------------------------------------------------------------------------
 #                          Functions to get info
 #------------------------------------------------------------------------------
