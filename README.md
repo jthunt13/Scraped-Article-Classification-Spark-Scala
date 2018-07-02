@@ -1,6 +1,7 @@
 # CSE 587 Lab 3 Spring 2018
 Contributors:
-* Jon Hunt* Joe Hadley
+* Jon Hunt
+* Joe Hadley
 
 ## Machine Setup
 To do this project we set up Scala and Spark on our local machines(Ubuntu/MACOS). We then used sbt to compile and package our Scala files and a bash script to send the packaged Scala jar to the spark-submit application. In order to run our package you will have to unzip the data folder, set your SPARK_HOME to your spark installation and run the run.sh script in the Lab3 directory.
