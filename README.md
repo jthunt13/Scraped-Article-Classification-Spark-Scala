@@ -1,4 +1,4 @@
-# CSE 587 Lab 3 Spring 2018
+# Srcraped Article Classification using Spark w/ Scala
 Contributors:
 * Jon Hunt
 * Joe Hadley
